@@ -1,16 +1,17 @@
-### Hi there 👋
+# Hi there 👋
+My name is Alex and I am in my fifth year at ETSU for Computer Science with a focus in Information Technology. I started as a Music Education major but I quickly found out that teaching just wasn't for me. I've always been fascinated with computers so I thought to myself, "Maybe I should try majoring in it." I have enjoyed every moment of my time in the Computer Science major at ETSU and can't wait to see what all is to come!
 
-<!--
-**AlexByars/AlexByars** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
+**Contact Information**
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Phone Number: ```(423)242-3803```
+
+Email: ```byarsalex98@gmail.com```
+
+🔭 I’m currently working on a lot of homework
+
+🌱 I’m currently learning how to code in C#, Information Security, Networking, Unix, and Advanced Database topic
+
+🤔 I’m looking for help with coding in C#
+
+⚡ Fun fact: I sing bass for the ETSU Chorale
