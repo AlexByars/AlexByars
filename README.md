@@ -6,12 +6,4 @@ My name is Alex and I am in my fifth year at ETSU for Computer Science with a fo
 
 Phone Number: ```(423)242-3803```
 
-Email: ```byarsalex98@gmail.com```
-
-🔭 I’m currently working on a lot of homework
-
-🌱 I’m currently learning how to code in C#, Information Security, Networking, Unix, and Advanced Database topic
-
-🤔 I’m looking for help with coding in C#
-
-⚡ Fun fact: I sing bass for the ETSU Chorale
+Email: ```byarss1@etsu.edu```
